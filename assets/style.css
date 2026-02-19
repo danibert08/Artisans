@@ -1,0 +1,17 @@
+/* Réinitialisation de base */
+body { 
+    margin: 0; font-family: Arial, sans-serif; 
+    text-align: center;
+}
+
+
+
+.logo {
+    width: 100vw;
+    
+  
+}
+.logo>img{
+    max-width: 80%;
+}
+/* color : #0249AF */
